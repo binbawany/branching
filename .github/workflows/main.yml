@@ -2,4 +2,4 @@ name: just push
 on:
   push:
     branches:
-      - main
+      - dev
