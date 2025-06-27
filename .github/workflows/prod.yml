@@ -1,0 +1,6 @@
+name: check to prod
+
+on:
+  push:
+    branches:
+      - prod
