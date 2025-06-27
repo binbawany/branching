@@ -1,0 +1,23 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#first {
+    color: aqua;
+}
+
+#second {
+    background-color: #ffffff;
+    color: aqua;
+    text-shadow: 5px, 10px, 15px, black;
+}
+
+a.website {
+    background-size: cover;
+    background-color: brown;
+}
+
+a.folder {
+    color: darkblue;
+    border-color: cadetblue;
+}
